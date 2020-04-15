@@ -21,7 +21,7 @@ def bonus
   }
 
   
- epic_tragedy[:status] = "dead"
+bonus=  epic_tragedy[:status] = "dead"
  
   
 
